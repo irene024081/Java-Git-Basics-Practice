@@ -25,3 +25,5 @@ replay_pid*
 
 # user-specific settings for IntellijIdea
 .idea/workspace.xml
+
+.DS_Store
